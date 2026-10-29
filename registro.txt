@@ -1,0 +1,6 @@
+registro de credenciales de nuevos usuarios:
+
+Nombre completo:
+Email:
+Contraseña:
+
